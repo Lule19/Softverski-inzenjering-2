@@ -1,0 +1,119 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ElektronskaUcionica
+build_property.RootNamespace = ElektronskaUcionica
+build_property.ProjectDir = C:\Users\W10\Desktop\ElektronskaUcionica\ElektronskaUcionica\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\W10\Desktop\ElektronskaUcionica\ElektronskaUcionica
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/W10/Desktop/ElektronskaUcionica/ElektronskaUcionica/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/W10/Desktop/ElektronskaUcionica/ElektronskaUcionica/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/W10/Desktop/ElektronskaUcionica/ElektronskaUcionica/Pages/OblastiPage/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT2JsYXN0aVBhZ2VcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/W10/Desktop/ElektronskaUcionica/ElektronskaUcionica/Pages/OblastiPage/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT2JsYXN0aVBhZ2VcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/W10/Desktop/ElektronskaUcionica/ElektronskaUcionica/Pages/OblastiPage/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT2JsYXN0aVBhZ2VcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/W10/Desktop/ElektronskaUcionica/ElektronskaUcionica/Pages/OblastiPage/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT2JsYXN0aVBhZ2VcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/W10/Desktop/ElektronskaUcionica/ElektronskaUcionica/Pages/OblastiPage/oblast.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT2JsYXN0aVBhZ2Vcb2JsYXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/W10/Desktop/ElektronskaUcionica/ElektronskaUcionica/Pages/PredmetiPage/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJlZG1ldGlQYWdlXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/W10/Desktop/ElektronskaUcionica/ElektronskaUcionica/Pages/PredmetiPage/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJlZG1ldGlQYWdlXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/W10/Desktop/ElektronskaUcionica/ElektronskaUcionica/Pages/PredmetiPage/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJlZG1ldGlQYWdlXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/W10/Desktop/ElektronskaUcionica/ElektronskaUcionica/Pages/PredmetiPage/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJlZG1ldGlQYWdlXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/W10/Desktop/ElektronskaUcionica/ElektronskaUcionica/Pages/PredmetiPage/predmet.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJlZG1ldGlQYWdlXHByZWRtZXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/W10/Desktop/ElektronskaUcionica/ElektronskaUcionica/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/W10/Desktop/ElektronskaUcionica/ElektronskaUcionica/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/W10/Desktop/ElektronskaUcionica/ElektronskaUcionica/Pages/TestoviPage/Random.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVzdG92aVBhZ2VcUmFuZG9tLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/W10/Desktop/ElektronskaUcionica/ElektronskaUcionica/Pages/TestoviPage/Rezultat.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVzdG92aVBhZ2VcUmV6dWx0YXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/W10/Desktop/ElektronskaUcionica/ElektronskaUcionica/Pages/TestoviPage/test.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVzdG92aVBhZ2VcdGVzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/W10/Desktop/ElektronskaUcionica/ElektronskaUcionica/Pages/ZadaciPage/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcWmFkYWNpUGFnZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/W10/Desktop/ElektronskaUcionica/ElektronskaUcionica/Pages/ZadaciPage/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcWmFkYWNpUGFnZVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/W10/Desktop/ElektronskaUcionica/ElektronskaUcionica/Pages/ZadaciPage/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcWmFkYWNpUGFnZVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/W10/Desktop/ElektronskaUcionica/ElektronskaUcionica/Pages/ZadaciPage/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcWmFkYWNpUGFnZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/W10/Desktop/ElektronskaUcionica/ElektronskaUcionica/Pages/ZadaciPage/zadatak.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcWmFkYWNpUGFnZVx6YWRhdGFrLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/W10/Desktop/ElektronskaUcionica/ElektronskaUcionica/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/W10/Desktop/ElektronskaUcionica/ElektronskaUcionica/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/W10/Desktop/ElektronskaUcionica/ElektronskaUcionica/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-uc5tdclhwr
