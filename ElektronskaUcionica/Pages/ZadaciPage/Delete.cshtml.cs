@@ -7,11 +7,7 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.EntityFrameworkCore;
 using DataBaseContext;
 using DatabaseEntityLib;
-<<<<<<< HEAD
-//using NuGet.Versioning;
-=======
 
->>>>>>> privremena_grana
 
 namespace ElektronskaUcionica.Pages.ZadaciPage
 {
@@ -53,11 +49,7 @@ namespace ElektronskaUcionica.Pages.ZadaciPage
             {
                 return NotFound();
             }
-<<<<<<< HEAD
-//            var Zadaci = await _context.Zadaci.FindAsync(id);
-=======
 
->>>>>>> privremena_grana
             var zadaci = await _context.Zadaci.FindAsync(id);
 
             if (zadaci != null)

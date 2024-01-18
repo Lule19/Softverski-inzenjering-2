@@ -1,675 +1,343 @@
 {
   "Files": [
     {
-<<<<<<< HEAD
-      "Id": "C:\\Users\\W10\\Desktop\\ElektronskaUcionica\\ElektronskaUcionica\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ElektronskaUcionica.bundle.scp.css",
+      "Id": "C:\\Users\\W10\\Desktop\\New folder\\New folder\\Softverski inzenjering 2 projekat Luka\\ElektronskaUcionica\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ElektronskaUcionica.bundle.scp.css",
       "PackagePath": "staticwebassets\\ElektronskaUcionica.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\W10\\Desktop\\ElektronskaUcionica\\ElektronskaUcionica\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\W10\\Desktop\\New folder\\New folder\\Softverski inzenjering 2 projekat Luka\\ElektronskaUcionica\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\W10\\Desktop\\ElektronskaUcionica\\ElektronskaUcionica\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\W10\\Desktop\\New folder\\New folder\\Softverski inzenjering 2 projekat Luka\\ElektronskaUcionica\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\W10\\Desktop\\ElektronskaUcionica\\ElektronskaUcionica\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\W10\\Desktop\\New folder\\New folder\\Softverski inzenjering 2 projekat Luka\\ElektronskaUcionica\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\W10\\Desktop\\ElektronskaUcionica\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\W10\\Desktop\\New folder\\New folder\\Softverski inzenjering 2 projekat Luka\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\W10\\Desktop\\ElektronskaUcionica\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\W10\\Desktop\\New folder\\New folder\\Softverski inzenjering 2 projekat Luka\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\W10\\Desktop\\ElektronskaUcionica\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\W10\\Desktop\\New folder\\New folder\\Softverski inzenjering 2 projekat Luka\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\W10\\Desktop\\ElektronskaUcionica\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\W10\\Desktop\\New folder\\New folder\\Softverski inzenjering 2 projekat Luka\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\W10\\Desktop\\ElektronskaUcionica\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\W10\\Desktop\\New folder\\New folder\\Softverski inzenjering 2 projekat Luka\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\W10\\Desktop\\ElektronskaUcionica\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\W10\\Desktop\\New folder\\New folder\\Softverski inzenjering 2 projekat Luka\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\W10\\Desktop\\ElektronskaUcionica\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\W10\\Desktop\\New folder\\New folder\\Softverski inzenjering 2 projekat Luka\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\W10\\Desktop\\ElektronskaUcionica\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\W10\\Desktop\\New folder\\New folder\\Softverski inzenjering 2 projekat Luka\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\W10\\Desktop\\ElektronskaUcionica\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\W10\\Desktop\\New folder\\New folder\\Softverski inzenjering 2 projekat Luka\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\W10\\Desktop\\ElektronskaUcionica\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\W10\\Desktop\\New folder\\New folder\\Softverski inzenjering 2 projekat Luka\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\W10\\Desktop\\ElektronskaUcionica\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\W10\\Desktop\\New folder\\New folder\\Softverski inzenjering 2 projekat Luka\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\W10\\Desktop\\ElektronskaUcionica\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\W10\\Desktop\\New folder\\New folder\\Softverski inzenjering 2 projekat Luka\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\W10\\Desktop\\ElektronskaUcionica\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\W10\\Desktop\\New folder\\New folder\\Softverski inzenjering 2 projekat Luka\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\W10\\Desktop\\ElektronskaUcionica\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\W10\\Desktop\\New folder\\New folder\\Softverski inzenjering 2 projekat Luka\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\W10\\Desktop\\ElektronskaUcionica\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\W10\\Desktop\\New folder\\New folder\\Softverski inzenjering 2 projekat Luka\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\W10\\Desktop\\ElektronskaUcionica\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\W10\\Desktop\\New folder\\New folder\\Softverski inzenjering 2 projekat Luka\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\W10\\Desktop\\ElektronskaUcionica\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\W10\\Desktop\\New folder\\New folder\\Softverski inzenjering 2 projekat Luka\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\W10\\Desktop\\ElektronskaUcionica\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\W10\\Desktop\\New folder\\New folder\\Softverski inzenjering 2 projekat Luka\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\W10\\Desktop\\ElektronskaUcionica\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\W10\\Desktop\\New folder\\New folder\\Softverski inzenjering 2 projekat Luka\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\W10\\Desktop\\ElektronskaUcionica\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\W10\\Desktop\\New folder\\New folder\\Softverski inzenjering 2 projekat Luka\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\W10\\Desktop\\ElektronskaUcionica\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\W10\\Desktop\\New folder\\New folder\\Softverski inzenjering 2 projekat Luka\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\W10\\Desktop\\ElektronskaUcionica\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\W10\\Desktop\\New folder\\New folder\\Softverski inzenjering 2 projekat Luka\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\W10\\Desktop\\ElektronskaUcionica\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\W10\\Desktop\\New folder\\New folder\\Softverski inzenjering 2 projekat Luka\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\W10\\Desktop\\ElektronskaUcionica\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\W10\\Desktop\\New folder\\New folder\\Softverski inzenjering 2 projekat Luka\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\W10\\Desktop\\ElektronskaUcionica\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\W10\\Desktop\\New folder\\New folder\\Softverski inzenjering 2 projekat Luka\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\W10\\Desktop\\ElektronskaUcionica\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\W10\\Desktop\\New folder\\New folder\\Softverski inzenjering 2 projekat Luka\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\W10\\Desktop\\ElektronskaUcionica\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\W10\\Desktop\\New folder\\New folder\\Softverski inzenjering 2 projekat Luka\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\W10\\Desktop\\ElektronskaUcionica\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\W10\\Desktop\\New folder\\New folder\\Softverski inzenjering 2 projekat Luka\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\W10\\Desktop\\ElektronskaUcionica\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\W10\\Desktop\\New folder\\New folder\\Softverski inzenjering 2 projekat Luka\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\W10\\Desktop\\ElektronskaUcionica\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\W10\\Desktop\\New folder\\New folder\\Softverski inzenjering 2 projekat Luka\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\W10\\Desktop\\ElektronskaUcionica\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\W10\\Desktop\\New folder\\New folder\\Softverski inzenjering 2 projekat Luka\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\W10\\Desktop\\ElektronskaUcionica\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\W10\\Desktop\\New folder\\New folder\\Softverski inzenjering 2 projekat Luka\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\W10\\Desktop\\ElektronskaUcionica\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\W10\\Desktop\\New folder\\New folder\\Softverski inzenjering 2 projekat Luka\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\W10\\Desktop\\ElektronskaUcionica\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\W10\\Desktop\\New folder\\New folder\\Softverski inzenjering 2 projekat Luka\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\W10\\Desktop\\ElektronskaUcionica\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\W10\\Desktop\\New folder\\New folder\\Softverski inzenjering 2 projekat Luka\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\W10\\Desktop\\ElektronskaUcionica\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\W10\\Desktop\\New folder\\New folder\\Softverski inzenjering 2 projekat Luka\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\W10\\Desktop\\ElektronskaUcionica\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\W10\\Desktop\\New folder\\New folder\\Softverski inzenjering 2 projekat Luka\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\W10\\Desktop\\ElektronskaUcionica\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\W10\\Desktop\\New folder\\New folder\\Softverski inzenjering 2 projekat Luka\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\W10\\Desktop\\ElektronskaUcionica\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\W10\\Desktop\\New folder\\New folder\\Softverski inzenjering 2 projekat Luka\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\W10\\Desktop\\ElektronskaUcionica\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\W10\\Desktop\\New folder\\New folder\\Softverski inzenjering 2 projekat Luka\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\W10\\Desktop\\ElektronskaUcionica\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\W10\\Desktop\\New folder\\New folder\\Softverski inzenjering 2 projekat Luka\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\W10\\Desktop\\ElektronskaUcionica\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\W10\\Desktop\\New folder\\New folder\\Softverski inzenjering 2 projekat Luka\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\W10\\Desktop\\ElektronskaUcionica\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\W10\\Desktop\\New folder\\New folder\\Softverski inzenjering 2 projekat Luka\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\W10\\Desktop\\ElektronskaUcionica\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\W10\\Desktop\\New folder\\New folder\\Softverski inzenjering 2 projekat Luka\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\W10\\Desktop\\ElektronskaUcionica\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\W10\\Desktop\\New folder\\New folder\\Softverski inzenjering 2 projekat Luka\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\W10\\Desktop\\ElektronskaUcionica\\ElektronskaUcionica\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\W10\\Desktop\\New folder\\New folder\\Softverski inzenjering 2 projekat Luka\\ElektronskaUcionica\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\W10\\Desktop\\ElektronskaUcionica\\ElektronskaUcionica\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\W10\\Desktop\\New folder\\New folder\\Softverski inzenjering 2 projekat Luka\\ElektronskaUcionica\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\W10\\Desktop\\ElektronskaUcionica\\ElektronskaUcionica\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\W10\\Desktop\\New folder\\New folder\\Softverski inzenjering 2 projekat Luka\\ElektronskaUcionica\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\W10\\Desktop\\ElektronskaUcionica\\ElektronskaUcionica\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\W10\\Desktop\\New folder\\New folder\\Softverski inzenjering 2 projekat Luka\\ElektronskaUcionica\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\W10\\Desktop\\ElektronskaUcionica\\ElektronskaUcionica\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\W10\\Desktop\\New folder\\New folder\\Softverski inzenjering 2 projekat Luka\\ElektronskaUcionica\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\W10\\Desktop\\ElektronskaUcionica\\ElektronskaUcionica\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\W10\\Desktop\\New folder\\New folder\\Softverski inzenjering 2 projekat Luka\\ElektronskaUcionica\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\W10\\Desktop\\ElektronskaUcionica\\ElektronskaUcionica\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\W10\\Desktop\\New folder\\New folder\\Softverski inzenjering 2 projekat Luka\\ElektronskaUcionica\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\W10\\Desktop\\ElektronskaUcionica\\ElektronskaUcionica\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\W10\\Desktop\\New folder\\New folder\\Softverski inzenjering 2 projekat Luka\\ElektronskaUcionica\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\W10\\Desktop\\ElektronskaUcionica\\ElektronskaUcionica\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\W10\\Desktop\\New folder\\New folder\\Softverski inzenjering 2 projekat Luka\\ElektronskaUcionica\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\W10\\Desktop\\ElektronskaUcionica\\ElektronskaUcionica\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\W10\\Desktop\\New folder\\New folder\\Softverski inzenjering 2 projekat Luka\\ElektronskaUcionica\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\W10\\Desktop\\ElektronskaUcionica\\ElektronskaUcionica\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\W10\\Desktop\\New folder\\New folder\\Softverski inzenjering 2 projekat Luka\\ElektronskaUcionica\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\W10\\Desktop\\ElektronskaUcionica\\ElektronskaUcionica\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\W10\\Desktop\\New folder\\New folder\\Softverski inzenjering 2 projekat Luka\\ElektronskaUcionica\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "C:\\Users\\W10\\Desktop\\ElektronskaUcionica\\ElektronskaUcionica\\wwwroot\\slike\\21.jpg",
-      "PackagePath": "staticwebassets\\slike\\21.jpg"
-    },
-    {
-      "Id": "C:\\Users\\W10\\Desktop\\ElektronskaUcionica\\ElektronskaUcionica\\wwwroot\\slike\\IMG_20220430_151026.jpg",
-      "PackagePath": "staticwebassets\\slike\\IMG_20220430_151026.jpg"
-    },
-    {
-      "Id": "C:\\Users\\W10\\Desktop\\ElektronskaUcionica\\ElektronskaUcionica\\wwwroot\\slike\\Karađorđe,_standing.jpg",
-      "PackagePath": "staticwebassets\\slike\\Karađorđe,_standing.jpg"
-    },
-    {
-      "Id": "C:\\Users\\W10\\Desktop\\ElektronskaUcionica\\ElektronskaUcionica\\wwwroot\\slike\\Veljko_Petrović.jpg",
-      "PackagePath": "staticwebassets\\slike\\Veljko_Petrović.jpg"
-    },
-    {
-      "Id": "C:\\Users\\W10\\Desktop\\ElektronskaUcionica\\ElektronskaUcionica\\wwwroot\\slike\\basket.PNG",
-      "PackagePath": "staticwebassets\\slike\\basket.PNG"
-    },
-    {
-      "Id": "C:\\Users\\W10\\Desktop\\ElektronskaUcionica\\ElektronskaUcionica\\wwwroot\\slike\\djok.jpg",
-      "PackagePath": "staticwebassets\\slike\\djok.jpg"
-    },
-    {
-      "Id": "C:\\Users\\W10\\Desktop\\ElektronskaUcionica\\ElektronskaUcionica\\wwwroot\\slike\\download.jpg",
-      "PackagePath": "staticwebassets\\slike\\download.jpg"
-    },
-    {
-      "Id": "C:\\Users\\W10\\Desktop\\ElektronskaUcionica\\ElektronskaUcionica\\wwwroot\\slike\\globus.jpg",
-      "PackagePath": "staticwebassets\\slike\\globus.jpg"
-    },
-    {
-      "Id": "C:\\Users\\W10\\Desktop\\ElektronskaUcionica\\ElektronskaUcionica\\wwwroot\\slike\\joka.jpg",
-      "PackagePath": "staticwebassets\\slike\\joka.jpg"
-    },
-    {
-      "Id": "C:\\Users\\W10\\Desktop\\ElektronskaUcionica\\ElektronskaUcionica\\wwwroot\\slike\\kocka.png",
-      "PackagePath": "staticwebassets\\slike\\kocka.png"
-    },
-    {
-      "Id": "C:\\Users\\W10\\Desktop\\ElektronskaUcionica\\ElektronskaUcionica\\wwwroot\\slike\\krug.png",
-      "PackagePath": "staticwebassets\\slike\\krug.png"
-    },
-    {
-      "Id": "C:\\Users\\W10\\Desktop\\ElektronskaUcionica\\ElektronskaUcionica\\wwwroot\\slike\\mare.jpg",
-      "PackagePath": "staticwebassets\\slike\\mare.jpg"
-    },
-    {
-      "Id": "C:\\Users\\W10\\Desktop\\ElektronskaUcionica\\ElektronskaUcionica\\wwwroot\\slike\\matematika.jpg",
-      "PackagePath": "staticwebassets\\slike\\matematika.jpg"
-    },
-    {
-      "Id": "C:\\Users\\W10\\Desktop\\ElektronskaUcionica\\ElektronskaUcionica\\wwwroot\\slike\\n.jpg",
-      "PackagePath": "staticwebassets\\slike\\n.jpg"
-    },
-    {
-      "Id": "C:\\Users\\W10\\Desktop\\ElektronskaUcionica\\ElektronskaUcionica\\wwwroot\\slike\\savca.jpg",
-      "PackagePath": "staticwebassets\\slike\\savca.jpg"
-    },
-    {
-      "Id": "C:\\Users\\W10\\Desktop\\ElektronskaUcionica\\ElektronskaUcionica\\wwwroot\\slike\\sicr.jpg",
-      "PackagePath": "staticwebassets\\slike\\sicr.jpg"
-    },
-    {
-      "Id": "C:\\Users\\W10\\Desktop\\ElektronskaUcionica\\ElektronskaUcionica\\wwwroot\\slike\\slems.jpg",
-      "PackagePath": "staticwebassets\\slike\\slems.jpg"
-    },
-    {
-      "Id": "C:\\Users\\W10\\Desktop\\ElektronskaUcionica\\ElektronskaUcionica\\wwwroot\\slike\\sparta.jpg",
-      "PackagePath": "staticwebassets\\slike\\sparta.jpg"
-    },
-    {
-      "Id": "C:\\Users\\W10\\Desktop\\ElektronskaUcionica\\ElektronskaUcionica\\wwwroot\\slike\\srbija.png",
-      "PackagePath": "staticwebassets\\slike\\srbija.png"
-    },
-    {
-      "Id": "C:\\Users\\W10\\Desktop\\ElektronskaUcionica\\ElektronskaUcionica\\wwwroot\\slike\\teo.jpg",
-      "PackagePath": "staticwebassets\\slike\\teo.jpg"
-    },
-    {
-      "Id": "C:\\Users\\W10\\Desktop\\ElektronskaUcionica\\ElektronskaUcionica\\wwwroot\\slike\\tesla.jpg",
-      "PackagePath": "staticwebassets\\slike\\tesla.jpg"
-    },
-    {
-      "Id": "C:\\Users\\W10\\Desktop\\ElektronskaUcionica\\ElektronskaUcionica\\wwwroot\\slike\\trava2.jpg",
-=======
-      "Id": "C:\\Users\\W10\\Desktop\\final\\ElektronskaUcionica\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ElektronskaUcionica.bundle.scp.css",
-      "PackagePath": "staticwebassets\\ElektronskaUcionica.bundle.scp.css"
-    },
-    {
-      "Id": "C:\\Users\\W10\\Desktop\\final\\ElektronskaUcionica\\wwwroot\\css\\site.css",
-      "PackagePath": "staticwebassets\\css\\site.css"
-    },
-    {
-      "Id": "C:\\Users\\W10\\Desktop\\final\\ElektronskaUcionica\\wwwroot\\favicon.ico",
-      "PackagePath": "staticwebassets\\favicon.ico"
-    },
-    {
-      "Id": "C:\\Users\\W10\\Desktop\\final\\ElektronskaUcionica\\wwwroot\\js\\site.js",
-      "PackagePath": "staticwebassets\\js\\site.js"
-    },
-    {
-      "Id": "C:\\Users\\W10\\Desktop\\final\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\LICENSE",
-      "PackagePath": "staticwebassets\\lib\\bootstrap"
-    },
-    {
-      "Id": "C:\\Users\\W10\\Desktop\\final\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
-    },
-    {
-      "Id": "C:\\Users\\W10\\Desktop\\final\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
-    },
-    {
-      "Id": "C:\\Users\\W10\\Desktop\\final\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
-    },
-    {
-      "Id": "C:\\Users\\W10\\Desktop\\final\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
-    },
-    {
-      "Id": "C:\\Users\\W10\\Desktop\\final\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
-    },
-    {
-      "Id": "C:\\Users\\W10\\Desktop\\final\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
-    },
-    {
-      "Id": "C:\\Users\\W10\\Desktop\\final\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
-    },
-    {
-      "Id": "C:\\Users\\W10\\Desktop\\final\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
-    },
-    {
-      "Id": "C:\\Users\\W10\\Desktop\\final\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
-    },
-    {
-      "Id": "C:\\Users\\W10\\Desktop\\final\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
-    },
-    {
-      "Id": "C:\\Users\\W10\\Desktop\\final\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
-    },
-    {
-      "Id": "C:\\Users\\W10\\Desktop\\final\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
-    },
-    {
-      "Id": "C:\\Users\\W10\\Desktop\\final\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
-    },
-    {
-      "Id": "C:\\Users\\W10\\Desktop\\final\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
-    },
-    {
-      "Id": "C:\\Users\\W10\\Desktop\\final\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
-    },
-    {
-      "Id": "C:\\Users\\W10\\Desktop\\final\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
-    },
-    {
-      "Id": "C:\\Users\\W10\\Desktop\\final\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
-    },
-    {
-      "Id": "C:\\Users\\W10\\Desktop\\final\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
-    },
-    {
-      "Id": "C:\\Users\\W10\\Desktop\\final\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
-    },
-    {
-      "Id": "C:\\Users\\W10\\Desktop\\final\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
-    },
-    {
-      "Id": "C:\\Users\\W10\\Desktop\\final\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
-    },
-    {
-      "Id": "C:\\Users\\W10\\Desktop\\final\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
-    },
-    {
-      "Id": "C:\\Users\\W10\\Desktop\\final\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
-    },
-    {
-      "Id": "C:\\Users\\W10\\Desktop\\final\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
-    },
-    {
-      "Id": "C:\\Users\\W10\\Desktop\\final\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
-    },
-    {
-      "Id": "C:\\Users\\W10\\Desktop\\final\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
-    },
-    {
-      "Id": "C:\\Users\\W10\\Desktop\\final\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
-    },
-    {
-      "Id": "C:\\Users\\W10\\Desktop\\final\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
-    },
-    {
-      "Id": "C:\\Users\\W10\\Desktop\\final\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
-    },
-    {
-      "Id": "C:\\Users\\W10\\Desktop\\final\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
-    },
-    {
-      "Id": "C:\\Users\\W10\\Desktop\\final\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
-    },
-    {
-      "Id": "C:\\Users\\W10\\Desktop\\final\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
-    },
-    {
-      "Id": "C:\\Users\\W10\\Desktop\\final\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
-    },
-    {
-      "Id": "C:\\Users\\W10\\Desktop\\final\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
-    },
-    {
-      "Id": "C:\\Users\\W10\\Desktop\\final\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
-    },
-    {
-      "Id": "C:\\Users\\W10\\Desktop\\final\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
-    },
-    {
-      "Id": "C:\\Users\\W10\\Desktop\\final\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
-    },
-    {
-      "Id": "C:\\Users\\W10\\Desktop\\final\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
-    },
-    {
-      "Id": "C:\\Users\\W10\\Desktop\\final\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
-    },
-    {
-      "Id": "C:\\Users\\W10\\Desktop\\final\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
-    },
-    {
-      "Id": "C:\\Users\\W10\\Desktop\\final\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
-    },
-    {
-      "Id": "C:\\Users\\W10\\Desktop\\final\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
-    },
-    {
-      "Id": "C:\\Users\\W10\\Desktop\\final\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
-    },
-    {
-      "Id": "C:\\Users\\W10\\Desktop\\final\\ElektronskaUcionica\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
-    },
-    {
-      "Id": "C:\\Users\\W10\\Desktop\\final\\ElektronskaUcionica\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
-    },
-    {
-      "Id": "C:\\Users\\W10\\Desktop\\final\\ElektronskaUcionica\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
-    },
-    {
-      "Id": "C:\\Users\\W10\\Desktop\\final\\ElektronskaUcionica\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
-    },
-    {
-      "Id": "C:\\Users\\W10\\Desktop\\final\\ElektronskaUcionica\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
-    },
-    {
-      "Id": "C:\\Users\\W10\\Desktop\\final\\ElektronskaUcionica\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
-    },
-    {
-      "Id": "C:\\Users\\W10\\Desktop\\final\\ElektronskaUcionica\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
-    },
-    {
-      "Id": "C:\\Users\\W10\\Desktop\\final\\ElektronskaUcionica\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
-    },
-    {
-      "Id": "C:\\Users\\W10\\Desktop\\final\\ElektronskaUcionica\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
-    },
-    {
-      "Id": "C:\\Users\\W10\\Desktop\\final\\ElektronskaUcionica\\wwwroot\\lib\\jquery\\LICENSE.txt",
-      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
-    },
-    {
-      "Id": "C:\\Users\\W10\\Desktop\\final\\ElektronskaUcionica\\wwwroot\\lib\\jquery\\dist\\jquery.js",
-      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
-    },
-    {
-      "Id": "C:\\Users\\W10\\Desktop\\final\\ElektronskaUcionica\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
-      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
-    },
-    {
-      "Id": "C:\\Users\\W10\\Desktop\\final\\ElektronskaUcionica\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
-      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
-    },
-    {
-      "Id": "C:\\Users\\W10\\Desktop\\final\\ElektronskaUcionica\\wwwroot\\slike\\1703077710293.jpg",
+      "Id": "C:\\Users\\W10\\Desktop\\New folder\\New folder\\Softverski inzenjering 2 projekat Luka\\ElektronskaUcionica\\wwwroot\\slike\\1703077710293.jpg",
       "PackagePath": "staticwebassets\\slike\\1703077710293.jpg"
     },
     {
-      "Id": "C:\\Users\\W10\\Desktop\\final\\ElektronskaUcionica\\wwwroot\\slike\\1704929269296.jpg",
+      "Id": "C:\\Users\\W10\\Desktop\\New folder\\New folder\\Softverski inzenjering 2 projekat Luka\\ElektronskaUcionica\\wwwroot\\slike\\1704929269296.jpg",
       "PackagePath": "staticwebassets\\slike\\1704929269296.jpg"
     },
     {
-      "Id": "C:\\Users\\W10\\Desktop\\final\\ElektronskaUcionica\\wwwroot\\slike\\21.jpg",
+      "Id": "C:\\Users\\W10\\Desktop\\New folder\\New folder\\Softverski inzenjering 2 projekat Luka\\ElektronskaUcionica\\wwwroot\\slike\\21.jpg",
       "PackagePath": "staticwebassets\\slike\\21.jpg"
     },
     {
-      "Id": "C:\\Users\\W10\\Desktop\\final\\ElektronskaUcionica\\wwwroot\\slike\\IMG_20220430_151026.jpg",
+      "Id": "C:\\Users\\W10\\Desktop\\New folder\\New folder\\Softverski inzenjering 2 projekat Luka\\ElektronskaUcionica\\wwwroot\\slike\\IMG_20220430_151026.jpg",
       "PackagePath": "staticwebassets\\slike\\IMG_20220430_151026.jpg"
     },
     {
-      "Id": "C:\\Users\\W10\\Desktop\\final\\ElektronskaUcionica\\wwwroot\\slike\\Karađorđe,_standing.jpg",
+      "Id": "C:\\Users\\W10\\Desktop\\New folder\\New folder\\Softverski inzenjering 2 projekat Luka\\ElektronskaUcionica\\wwwroot\\slike\\Karađorđe,_standing.jpg",
       "PackagePath": "staticwebassets\\slike\\Karađorđe,_standing.jpg"
     },
     {
-      "Id": "C:\\Users\\W10\\Desktop\\final\\ElektronskaUcionica\\wwwroot\\slike\\Veljko_Petrović.jpg",
+      "Id": "C:\\Users\\W10\\Desktop\\New folder\\New folder\\Softverski inzenjering 2 projekat Luka\\ElektronskaUcionica\\wwwroot\\slike\\Veljko_Petrović.jpg",
       "PackagePath": "staticwebassets\\slike\\Veljko_Petrović.jpg"
     },
     {
-      "Id": "C:\\Users\\W10\\Desktop\\final\\ElektronskaUcionica\\wwwroot\\slike\\basket.PNG",
+      "Id": "C:\\Users\\W10\\Desktop\\New folder\\New folder\\Softverski inzenjering 2 projekat Luka\\ElektronskaUcionica\\wwwroot\\slike\\basket.PNG",
       "PackagePath": "staticwebassets\\slike\\basket.PNG"
     },
     {
-      "Id": "C:\\Users\\W10\\Desktop\\final\\ElektronskaUcionica\\wwwroot\\slike\\djok.jpg",
+      "Id": "C:\\Users\\W10\\Desktop\\New folder\\New folder\\Softverski inzenjering 2 projekat Luka\\ElektronskaUcionica\\wwwroot\\slike\\djok.jpg",
       "PackagePath": "staticwebassets\\slike\\djok.jpg"
     },
     {
-      "Id": "C:\\Users\\W10\\Desktop\\final\\ElektronskaUcionica\\wwwroot\\slike\\download.jpg",
+      "Id": "C:\\Users\\W10\\Desktop\\New folder\\New folder\\Softverski inzenjering 2 projekat Luka\\ElektronskaUcionica\\wwwroot\\slike\\download.jpg",
       "PackagePath": "staticwebassets\\slike\\download.jpg"
     },
     {
-      "Id": "C:\\Users\\W10\\Desktop\\final\\ElektronskaUcionica\\wwwroot\\slike\\globus.jpg",
+      "Id": "C:\\Users\\W10\\Desktop\\New folder\\New folder\\Softverski inzenjering 2 projekat Luka\\ElektronskaUcionica\\wwwroot\\slike\\globus.jpg",
       "PackagePath": "staticwebassets\\slike\\globus.jpg"
     },
     {
-      "Id": "C:\\Users\\W10\\Desktop\\final\\ElektronskaUcionica\\wwwroot\\slike\\joka.jpg",
+      "Id": "C:\\Users\\W10\\Desktop\\New folder\\New folder\\Softverski inzenjering 2 projekat Luka\\ElektronskaUcionica\\wwwroot\\slike\\joka.jpg",
       "PackagePath": "staticwebassets\\slike\\joka.jpg"
     },
     {
-      "Id": "C:\\Users\\W10\\Desktop\\final\\ElektronskaUcionica\\wwwroot\\slike\\kocka.png",
+      "Id": "C:\\Users\\W10\\Desktop\\New folder\\New folder\\Softverski inzenjering 2 projekat Luka\\ElektronskaUcionica\\wwwroot\\slike\\kocka.png",
       "PackagePath": "staticwebassets\\slike\\kocka.png"
     },
     {
-      "Id": "C:\\Users\\W10\\Desktop\\final\\ElektronskaUcionica\\wwwroot\\slike\\krug.png",
+      "Id": "C:\\Users\\W10\\Desktop\\New folder\\New folder\\Softverski inzenjering 2 projekat Luka\\ElektronskaUcionica\\wwwroot\\slike\\krug.png",
       "PackagePath": "staticwebassets\\slike\\krug.png"
     },
     {
-      "Id": "C:\\Users\\W10\\Desktop\\final\\ElektronskaUcionica\\wwwroot\\slike\\mare.jpg",
+      "Id": "C:\\Users\\W10\\Desktop\\New folder\\New folder\\Softverski inzenjering 2 projekat Luka\\ElektronskaUcionica\\wwwroot\\slike\\mare.jpg",
       "PackagePath": "staticwebassets\\slike\\mare.jpg"
     },
     {
-      "Id": "C:\\Users\\W10\\Desktop\\final\\ElektronskaUcionica\\wwwroot\\slike\\matematika.jpg",
+      "Id": "C:\\Users\\W10\\Desktop\\New folder\\New folder\\Softverski inzenjering 2 projekat Luka\\ElektronskaUcionica\\wwwroot\\slike\\matematika.jpg",
       "PackagePath": "staticwebassets\\slike\\matematika.jpg"
     },
     {
-      "Id": "C:\\Users\\W10\\Desktop\\final\\ElektronskaUcionica\\wwwroot\\slike\\n.jpg",
+      "Id": "C:\\Users\\W10\\Desktop\\New folder\\New folder\\Softverski inzenjering 2 projekat Luka\\ElektronskaUcionica\\wwwroot\\slike\\n.jpg",
       "PackagePath": "staticwebassets\\slike\\n.jpg"
     },
     {
-      "Id": "C:\\Users\\W10\\Desktop\\final\\ElektronskaUcionica\\wwwroot\\slike\\savca.jpg",
+      "Id": "C:\\Users\\W10\\Desktop\\New folder\\New folder\\Softverski inzenjering 2 projekat Luka\\ElektronskaUcionica\\wwwroot\\slike\\savca.jpg",
       "PackagePath": "staticwebassets\\slike\\savca.jpg"
     },
     {
-      "Id": "C:\\Users\\W10\\Desktop\\final\\ElektronskaUcionica\\wwwroot\\slike\\sicr.jpg",
+      "Id": "C:\\Users\\W10\\Desktop\\New folder\\New folder\\Softverski inzenjering 2 projekat Luka\\ElektronskaUcionica\\wwwroot\\slike\\sicr.jpg",
       "PackagePath": "staticwebassets\\slike\\sicr.jpg"
     },
     {
-      "Id": "C:\\Users\\W10\\Desktop\\final\\ElektronskaUcionica\\wwwroot\\slike\\slems.jpg",
+      "Id": "C:\\Users\\W10\\Desktop\\New folder\\New folder\\Softverski inzenjering 2 projekat Luka\\ElektronskaUcionica\\wwwroot\\slike\\slems.jpg",
       "PackagePath": "staticwebassets\\slike\\slems.jpg"
     },
     {
-      "Id": "C:\\Users\\W10\\Desktop\\final\\ElektronskaUcionica\\wwwroot\\slike\\sparta.jpg",
+      "Id": "C:\\Users\\W10\\Desktop\\New folder\\New folder\\Softverski inzenjering 2 projekat Luka\\ElektronskaUcionica\\wwwroot\\slike\\sparta.jpg",
       "PackagePath": "staticwebassets\\slike\\sparta.jpg"
     },
     {
-      "Id": "C:\\Users\\W10\\Desktop\\final\\ElektronskaUcionica\\wwwroot\\slike\\srbija.png",
+      "Id": "C:\\Users\\W10\\Desktop\\New folder\\New folder\\Softverski inzenjering 2 projekat Luka\\ElektronskaUcionica\\wwwroot\\slike\\srbija.png",
       "PackagePath": "staticwebassets\\slike\\srbija.png"
     },
     {
-      "Id": "C:\\Users\\W10\\Desktop\\final\\ElektronskaUcionica\\wwwroot\\slike\\teo.jpg",
+      "Id": "C:\\Users\\W10\\Desktop\\New folder\\New folder\\Softverski inzenjering 2 projekat Luka\\ElektronskaUcionica\\wwwroot\\slike\\teo.jpg",
       "PackagePath": "staticwebassets\\slike\\teo.jpg"
     },
     {
-      "Id": "C:\\Users\\W10\\Desktop\\final\\ElektronskaUcionica\\wwwroot\\slike\\tesla.jpg",
+      "Id": "C:\\Users\\W10\\Desktop\\New folder\\New folder\\Softverski inzenjering 2 projekat Luka\\ElektronskaUcionica\\wwwroot\\slike\\tesla.jpg",
       "PackagePath": "staticwebassets\\slike\\tesla.jpg"
     },
     {
-      "Id": "C:\\Users\\W10\\Desktop\\final\\ElektronskaUcionica\\wwwroot\\slike\\trava2.jpg",
->>>>>>> privremena_grana
+      "Id": "C:\\Users\\W10\\Desktop\\New folder\\New folder\\Softverski inzenjering 2 projekat Luka\\ElektronskaUcionica\\wwwroot\\slike\\trava2.jpg",
       "PackagePath": "staticwebassets\\slike\\trava2.jpg"
     },
     {

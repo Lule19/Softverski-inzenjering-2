@@ -235,8 +235,6 @@ C:\Users\W10\Desktop\ElektronskaUcionica\ElektronskaUcionica\obj\Debug\net6.0\re
 C:\Users\W10\Desktop\ElektronskaUcionica\ElektronskaUcionica\obj\Debug\net6.0\ElektronskaUcionica.pdb
 C:\Users\W10\Desktop\ElektronskaUcionica\ElektronskaUcionica\obj\Debug\net6.0\ElektronskaUcionica.genruntimeconfig.cache
 C:\Users\W10\Desktop\ElektronskaUcionica\ElektronskaUcionica\obj\Debug\net6.0\ref\ElektronskaUcionica.dll
-<<<<<<< HEAD
-=======
 C:\Users\W10\Desktop\final\ElektronskaUcionica\bin\Debug\net6.0\appsettings.Development.json
 C:\Users\W10\Desktop\final\ElektronskaUcionica\bin\Debug\net6.0\appsettings.json
 C:\Users\W10\Desktop\final\ElektronskaUcionica\bin\Debug\net6.0\ElektronskaUcionica.staticwebassets.runtime.json
@@ -316,4 +314,82 @@ C:\Users\W10\Desktop\final\ElektronskaUcionica\obj\Debug\net6.0\refint\Elektrons
 C:\Users\W10\Desktop\final\ElektronskaUcionica\obj\Debug\net6.0\ElektronskaUcionica.pdb
 C:\Users\W10\Desktop\final\ElektronskaUcionica\obj\Debug\net6.0\ElektronskaUcionica.genruntimeconfig.cache
 C:\Users\W10\Desktop\final\ElektronskaUcionica\obj\Debug\net6.0\ref\ElektronskaUcionica.dll
->>>>>>> privremena_grana
+C:\Users\W10\Desktop\New folder\New folder\Softverski inzenjering 2 projekat Luka\ElektronskaUcionica\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\W10\Desktop\New folder\New folder\Softverski inzenjering 2 projekat Luka\ElektronskaUcionica\bin\Debug\net6.0\appsettings.json
+C:\Users\W10\Desktop\New folder\New folder\Softverski inzenjering 2 projekat Luka\ElektronskaUcionica\bin\Debug\net6.0\ElektronskaUcionica.staticwebassets.runtime.json
+C:\Users\W10\Desktop\New folder\New folder\Softverski inzenjering 2 projekat Luka\ElektronskaUcionica\bin\Debug\net6.0\ElektronskaUcionica.exe
+C:\Users\W10\Desktop\New folder\New folder\Softverski inzenjering 2 projekat Luka\ElektronskaUcionica\bin\Debug\net6.0\ElektronskaUcionica.deps.json
+C:\Users\W10\Desktop\New folder\New folder\Softverski inzenjering 2 projekat Luka\ElektronskaUcionica\bin\Debug\net6.0\ElektronskaUcionica.runtimeconfig.json
+C:\Users\W10\Desktop\New folder\New folder\Softverski inzenjering 2 projekat Luka\ElektronskaUcionica\bin\Debug\net6.0\ElektronskaUcionica.dll
+C:\Users\W10\Desktop\New folder\New folder\Softverski inzenjering 2 projekat Luka\ElektronskaUcionica\bin\Debug\net6.0\ElektronskaUcionica.pdb
+C:\Users\W10\Desktop\New folder\New folder\Softverski inzenjering 2 projekat Luka\ElektronskaUcionica\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\W10\Desktop\New folder\New folder\Softverski inzenjering 2 projekat Luka\ElektronskaUcionica\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\W10\Desktop\New folder\New folder\Softverski inzenjering 2 projekat Luka\ElektronskaUcionica\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\W10\Desktop\New folder\New folder\Softverski inzenjering 2 projekat Luka\ElektronskaUcionica\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\W10\Desktop\New folder\New folder\Softverski inzenjering 2 projekat Luka\ElektronskaUcionica\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\W10\Desktop\New folder\New folder\Softverski inzenjering 2 projekat Luka\ElektronskaUcionica\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\W10\Desktop\New folder\New folder\Softverski inzenjering 2 projekat Luka\ElektronskaUcionica\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\W10\Desktop\New folder\New folder\Softverski inzenjering 2 projekat Luka\ElektronskaUcionica\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\W10\Desktop\New folder\New folder\Softverski inzenjering 2 projekat Luka\ElektronskaUcionica\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\W10\Desktop\New folder\New folder\Softverski inzenjering 2 projekat Luka\ElektronskaUcionica\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\W10\Desktop\New folder\New folder\Softverski inzenjering 2 projekat Luka\ElektronskaUcionica\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\W10\Desktop\New folder\New folder\Softverski inzenjering 2 projekat Luka\ElektronskaUcionica\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\W10\Desktop\New folder\New folder\Softverski inzenjering 2 projekat Luka\ElektronskaUcionica\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\W10\Desktop\New folder\New folder\Softverski inzenjering 2 projekat Luka\ElektronskaUcionica\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\W10\Desktop\New folder\New folder\Softverski inzenjering 2 projekat Luka\ElektronskaUcionica\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\W10\Desktop\New folder\New folder\Softverski inzenjering 2 projekat Luka\ElektronskaUcionica\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\W10\Desktop\New folder\New folder\Softverski inzenjering 2 projekat Luka\ElektronskaUcionica\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\W10\Desktop\New folder\New folder\Softverski inzenjering 2 projekat Luka\ElektronskaUcionica\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\W10\Desktop\New folder\New folder\Softverski inzenjering 2 projekat Luka\ElektronskaUcionica\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\W10\Desktop\New folder\New folder\Softverski inzenjering 2 projekat Luka\ElektronskaUcionica\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\W10\Desktop\New folder\New folder\Softverski inzenjering 2 projekat Luka\ElektronskaUcionica\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\W10\Desktop\New folder\New folder\Softverski inzenjering 2 projekat Luka\ElektronskaUcionica\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\W10\Desktop\New folder\New folder\Softverski inzenjering 2 projekat Luka\ElektronskaUcionica\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\W10\Desktop\New folder\New folder\Softverski inzenjering 2 projekat Luka\ElektronskaUcionica\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+C:\Users\W10\Desktop\New folder\New folder\Softverski inzenjering 2 projekat Luka\ElektronskaUcionica\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\W10\Desktop\New folder\New folder\Softverski inzenjering 2 projekat Luka\ElektronskaUcionica\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\W10\Desktop\New folder\New folder\Softverski inzenjering 2 projekat Luka\ElektronskaUcionica\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\W10\Desktop\New folder\New folder\Softverski inzenjering 2 projekat Luka\ElektronskaUcionica\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\W10\Desktop\New folder\New folder\Softverski inzenjering 2 projekat Luka\ElektronskaUcionica\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\W10\Desktop\New folder\New folder\Softverski inzenjering 2 projekat Luka\ElektronskaUcionica\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\W10\Desktop\New folder\New folder\Softverski inzenjering 2 projekat Luka\ElektronskaUcionica\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\W10\Desktop\New folder\New folder\Softverski inzenjering 2 projekat Luka\ElektronskaUcionica\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\W10\Desktop\New folder\New folder\Softverski inzenjering 2 projekat Luka\ElektronskaUcionica\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\W10\Desktop\New folder\New folder\Softverski inzenjering 2 projekat Luka\ElektronskaUcionica\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\W10\Desktop\New folder\New folder\Softverski inzenjering 2 projekat Luka\ElektronskaUcionica\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\W10\Desktop\New folder\New folder\Softverski inzenjering 2 projekat Luka\ElektronskaUcionica\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\W10\Desktop\New folder\New folder\Softverski inzenjering 2 projekat Luka\ElektronskaUcionica\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\W10\Desktop\New folder\New folder\Softverski inzenjering 2 projekat Luka\ElektronskaUcionica\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\W10\Desktop\New folder\New folder\Softverski inzenjering 2 projekat Luka\ElektronskaUcionica\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\W10\Desktop\New folder\New folder\Softverski inzenjering 2 projekat Luka\ElektronskaUcionica\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\W10\Desktop\New folder\New folder\Softverski inzenjering 2 projekat Luka\ElektronskaUcionica\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\W10\Desktop\New folder\New folder\Softverski inzenjering 2 projekat Luka\ElektronskaUcionica\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\W10\Desktop\New folder\New folder\Softverski inzenjering 2 projekat Luka\ElektronskaUcionica\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\W10\Desktop\New folder\New folder\Softverski inzenjering 2 projekat Luka\ElektronskaUcionica\bin\Debug\net6.0\DatabaseContext.dll
+C:\Users\W10\Desktop\New folder\New folder\Softverski inzenjering 2 projekat Luka\ElektronskaUcionica\bin\Debug\net6.0\DatabaseEntityLib.dll
+C:\Users\W10\Desktop\New folder\New folder\Softverski inzenjering 2 projekat Luka\ElektronskaUcionica\bin\Debug\net6.0\DatabaseContext.pdb
+C:\Users\W10\Desktop\New folder\New folder\Softverski inzenjering 2 projekat Luka\ElektronskaUcionica\bin\Debug\net6.0\DatabaseEntityLib.pdb
+C:\Users\W10\Desktop\New folder\New folder\Softverski inzenjering 2 projekat Luka\ElektronskaUcionica\obj\Debug\net6.0\ElektronskaUcionica.csproj.AssemblyReference.cache
+C:\Users\W10\Desktop\New folder\New folder\Softverski inzenjering 2 projekat Luka\ElektronskaUcionica\obj\Debug\net6.0\ElektronskaUcionica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\W10\Desktop\New folder\New folder\Softverski inzenjering 2 projekat Luka\ElektronskaUcionica\obj\Debug\net6.0\ElektronskaUcionica.AssemblyInfoInputs.cache
+C:\Users\W10\Desktop\New folder\New folder\Softverski inzenjering 2 projekat Luka\ElektronskaUcionica\obj\Debug\net6.0\ElektronskaUcionica.AssemblyInfo.cs
+C:\Users\W10\Desktop\New folder\New folder\Softverski inzenjering 2 projekat Luka\ElektronskaUcionica\obj\Debug\net6.0\ElektronskaUcionica.csproj.CoreCompileInputs.cache
+C:\Users\W10\Desktop\New folder\New folder\Softverski inzenjering 2 projekat Luka\ElektronskaUcionica\obj\Debug\net6.0\ElektronskaUcionica.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\W10\Desktop\New folder\New folder\Softverski inzenjering 2 projekat Luka\ElektronskaUcionica\obj\Debug\net6.0\ElektronskaUcionica.RazorAssemblyInfo.cache
+C:\Users\W10\Desktop\New folder\New folder\Softverski inzenjering 2 projekat Luka\ElektronskaUcionica\obj\Debug\net6.0\ElektronskaUcionica.RazorAssemblyInfo.cs
+C:\Users\W10\Desktop\New folder\New folder\Softverski inzenjering 2 projekat Luka\ElektronskaUcionica\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\W10\Desktop\New folder\New folder\Softverski inzenjering 2 projekat Luka\ElektronskaUcionica\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\W10\Desktop\New folder\New folder\Softverski inzenjering 2 projekat Luka\ElektronskaUcionica\obj\Debug\net6.0\staticwebassets\msbuild.ElektronskaUcionica.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\W10\Desktop\New folder\New folder\Softverski inzenjering 2 projekat Luka\ElektronskaUcionica\obj\Debug\net6.0\staticwebassets\msbuild.build.ElektronskaUcionica.props
+C:\Users\W10\Desktop\New folder\New folder\Softverski inzenjering 2 projekat Luka\ElektronskaUcionica\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ElektronskaUcionica.props
+C:\Users\W10\Desktop\New folder\New folder\Softverski inzenjering 2 projekat Luka\ElektronskaUcionica\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ElektronskaUcionica.props
+C:\Users\W10\Desktop\New folder\New folder\Softverski inzenjering 2 projekat Luka\ElektronskaUcionica\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\W10\Desktop\New folder\New folder\Softverski inzenjering 2 projekat Luka\ElektronskaUcionica\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\W10\Desktop\New folder\New folder\Softverski inzenjering 2 projekat Luka\ElektronskaUcionica\obj\Debug\net6.0\scopedcss\bundle\ElektronskaUcionica.styles.css
+C:\Users\W10\Desktop\New folder\New folder\Softverski inzenjering 2 projekat Luka\ElektronskaUcionica\obj\Debug\net6.0\scopedcss\projectbundle\ElektronskaUcionica.bundle.scp.css
+C:\Users\W10\Desktop\New folder\New folder\Softverski inzenjering 2 projekat Luka\ElektronskaUcionica\obj\Debug\net6.0\ElektronskaUcionica.csproj.CopyComplete
+C:\Users\W10\Desktop\New folder\New folder\Softverski inzenjering 2 projekat Luka\ElektronskaUcionica\obj\Debug\net6.0\ElektronskaUcionica.dll
+C:\Users\W10\Desktop\New folder\New folder\Softverski inzenjering 2 projekat Luka\ElektronskaUcionica\obj\Debug\net6.0\refint\ElektronskaUcionica.dll
+C:\Users\W10\Desktop\New folder\New folder\Softverski inzenjering 2 projekat Luka\ElektronskaUcionica\obj\Debug\net6.0\ElektronskaUcionica.pdb
+C:\Users\W10\Desktop\New folder\New folder\Softverski inzenjering 2 projekat Luka\ElektronskaUcionica\obj\Debug\net6.0\ElektronskaUcionica.genruntimeconfig.cache
+C:\Users\W10\Desktop\New folder\New folder\Softverski inzenjering 2 projekat Luka\ElektronskaUcionica\obj\Debug\net6.0\ref\ElektronskaUcionica.dll

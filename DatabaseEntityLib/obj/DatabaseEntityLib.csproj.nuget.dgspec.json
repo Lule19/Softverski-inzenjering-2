@@ -1,31 +1,17 @@
 {
   "format": 1,
   "restore": {
-<<<<<<< HEAD
-    "C:\\Users\\W10\\Desktop\\ElektronskaUcionica\\DatabaseEntityLib\\DatabaseEntityLib.csproj": {}
+    "C:\\Users\\W10\\Desktop\\New folder\\New folder\\Softverski inzenjering 2 projekat Luka\\DatabaseEntityLib\\DatabaseEntityLib.csproj": {}
   },
   "projects": {
-    "C:\\Users\\W10\\Desktop\\ElektronskaUcionica\\DatabaseEntityLib\\DatabaseEntityLib.csproj": {
+    "C:\\Users\\W10\\Desktop\\New folder\\New folder\\Softverski inzenjering 2 projekat Luka\\DatabaseEntityLib\\DatabaseEntityLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\W10\\Desktop\\ElektronskaUcionica\\DatabaseEntityLib\\DatabaseEntityLib.csproj",
+        "projectUniqueName": "C:\\Users\\W10\\Desktop\\New folder\\New folder\\Softverski inzenjering 2 projekat Luka\\DatabaseEntityLib\\DatabaseEntityLib.csproj",
         "projectName": "DatabaseEntityLib",
-        "projectPath": "C:\\Users\\W10\\Desktop\\ElektronskaUcionica\\DatabaseEntityLib\\DatabaseEntityLib.csproj",
+        "projectPath": "C:\\Users\\W10\\Desktop\\New folder\\New folder\\Softverski inzenjering 2 projekat Luka\\DatabaseEntityLib\\DatabaseEntityLib.csproj",
         "packagesPath": "C:\\Users\\W10\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\W10\\Desktop\\ElektronskaUcionica\\DatabaseEntityLib\\obj\\",
-=======
-    "C:\\Users\\W10\\Desktop\\final\\DatabaseEntityLib\\DatabaseEntityLib.csproj": {}
-  },
-  "projects": {
-    "C:\\Users\\W10\\Desktop\\final\\DatabaseEntityLib\\DatabaseEntityLib.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\W10\\Desktop\\final\\DatabaseEntityLib\\DatabaseEntityLib.csproj",
-        "projectName": "DatabaseEntityLib",
-        "projectPath": "C:\\Users\\W10\\Desktop\\final\\DatabaseEntityLib\\DatabaseEntityLib.csproj",
-        "packagesPath": "C:\\Users\\W10\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\W10\\Desktop\\final\\DatabaseEntityLib\\obj\\",
->>>>>>> privremena_grana
+        "outputPath": "C:\\Users\\W10\\Desktop\\New folder\\New folder\\Softverski inzenjering 2 projekat Luka\\DatabaseEntityLib\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\W10\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,14 +1,8 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "GF3K2MMObYsYkWeW+vPx38CbdKrJx+JbyILZkzOEEXC9T3bMApMWIJvBKk+luAf8te/ikgc/iy0TGYuzcl9dlg==",
+  "dgSpecHash": "8Eu/LDJ4goJNEZKZEwmSeNNMeu/TmFMWIJXxVanCnG3s73twdWXdiDUA7t66j3gMgZonbrXLbJQoOTnHXYW0YQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\W10\\Desktop\\ElektronskaUcionica\\DatabaseEntityLib\\DatabaseEntityLib.csproj",
-=======
-  "dgSpecHash": "pIwBCvViSZ8s0qbL05d0O/b3QcXleAtEmSeg/XPv7CCb9uaqP0K7/BTqHfLuB60+w51ezbYa4S3uQHbStNMzKg==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\W10\\Desktop\\final\\DatabaseEntityLib\\DatabaseEntityLib.csproj",
->>>>>>> privremena_grana
+  "projectFilePath": "C:\\Users\\W10\\Desktop\\New folder\\New folder\\Softverski inzenjering 2 projekat Luka\\DatabaseEntityLib\\DatabaseEntityLib.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\W10\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.0\\microsoft.data.sqlite.core.7.0.0.nupkg.sha512",
     "C:\\Users\\W10\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.0\\microsoft.entityframeworkcore.7.0.0.nupkg.sha512",

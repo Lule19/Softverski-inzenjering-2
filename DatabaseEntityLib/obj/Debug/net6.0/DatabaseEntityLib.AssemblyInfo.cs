@@ -14,11 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DatabaseEntityLib")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-=======
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+92c76df145e19af3b5a11003f6b11cc5673d5614")]
->>>>>>> privremena_grana
 [assembly: System.Reflection.AssemblyProductAttribute("DatabaseEntityLib")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DatabaseEntityLib")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

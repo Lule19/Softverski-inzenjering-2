@@ -1,14 +1,8 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "KPYaSkquEXIFGJiu2KzR7Wqa+u9pd07e3b1OSSE+Y/3A1Zzd3vFtqqRtFltNUuYOe62TLCGZUhErz4tphOOJ6w==",
+  "dgSpecHash": "DKyGiJZDZndu63tUmWd2/UessXMiBST51f6ZD4KEuiDtz3S3ig4CqmXJjpwg20T28PVpNMg4uKZtJqSykAxWgQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\W10\\Desktop\\ElektronskaUcionica\\ElektronskaUcionica\\ElektronskaUcionica.csproj",
-=======
-  "dgSpecHash": "mzGElAA9UfiEqbFcV4HJn+eQYyqfQPRskkz1rwOB0xEbuqmInAMgz81p3aT34cqUefDddaL0wKscwYQgQJ8brQ==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\W10\\Desktop\\final\\ElektronskaUcionica\\ElektronskaUcionica.csproj",
->>>>>>> privremena_grana
+  "projectFilePath": "C:\\Users\\W10\\Desktop\\New folder\\New folder\\Softverski inzenjering 2 projekat Luka\\ElektronskaUcionica\\ElektronskaUcionica.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\W10\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.0\\microsoft.data.sqlite.core.7.0.0.nupkg.sha512",
     "C:\\Users\\W10\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.0\\microsoft.entityframeworkcore.7.0.0.nupkg.sha512",

@@ -11,11 +11,6 @@ namespace DatabaseEntityLib
     {
         public int ID { get; set; }
         public string Name { get; set; }
-<<<<<<< HEAD
-
-
-=======
->>>>>>> privremena_grana
         public ICollection<Zadaci> pitanje { get; set; } = new List<Zadaci>();
 
     }

@@ -27,17 +27,10 @@ namespace ElektronskaUcionica.Pages.ZadaciPage
         {
             ViewData["IDPredmet"] = new SelectList(_context.Predmeti, "ID", "Name");
             ViewData["IDOblast"] = new SelectList(_context.Oblasti, "ID", "Name");
-<<<<<<< HEAD
-            // Assuming _context.Zadaci is a collection of objects with a property named "Nivo"
-            var uniqueNivoValues = _context.Zadaci.Select(z => z.Nivo).Distinct().ToList();
-
-            // Create a SelectList with unique Nivo values
-=======
            
             var uniqueNivoValues = _context.Zadaci.Select(z => z.Nivo).Distinct().ToList();
 
            
->>>>>>> privremena_grana
             ViewData["Nivo"] = new SelectList(uniqueNivoValues);
 
 
@@ -51,17 +44,10 @@ namespace ElektronskaUcionica.Pages.ZadaciPage
         [BindProperty]
         public IFormFile Upload { get; set; }
 
-<<<<<<< HEAD
-        // To protect from overposting attacks, see https://aka.ms/RazorPagesCRUD
-        public async Task<IActionResult> OnPostAsync()
-        {
-            if (/*!ModelState.IsValid ||*/ _context.Zadaci == null || Zadaci == null)
-=======
      
         public async Task<IActionResult> OnPostAsync()
         {
             if ( _context.Zadaci == null || Zadaci == null)
->>>>>>> privremena_grana
             {
                 return Page();
             }

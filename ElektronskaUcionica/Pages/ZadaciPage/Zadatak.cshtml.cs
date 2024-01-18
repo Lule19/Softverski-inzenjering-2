@@ -22,11 +22,7 @@ namespace ElektronskaUcionica.Pages.ZadaciPage
 
         public void OnPost()
         {
-<<<<<<< HEAD
-            /*za search bitno je da ukljucuje i predmet i oblast */
-=======
             
->>>>>>> privremena_grana
             if (SearchText == null)
             {
                 Zadaci = _context.Zadaci
@@ -38,13 +34,8 @@ namespace ElektronskaUcionica.Pages.ZadaciPage
             {
                 Zadaci = _context.Zadaci
                     .Where(x => x.Pitanje.Contains(SearchText) ||
-<<<<<<< HEAD
-                                x.Predmet.Name.Contains(SearchText) || // Dodajte uslov za pretragu po nazivu predmeta
-                                x.Oblast.Name.Contains(SearchText))   // Dodajte uslov za pretragu po nazivu oblasti
-=======
                                 x.Predmet.Name.Contains(SearchText) || 
                                 x.Oblast.Name.Contains(SearchText))   
->>>>>>> privremena_grana
                     .Include(p => p.Predmet)
                     .Include(p => p.Oblast)
                     .ToList();
