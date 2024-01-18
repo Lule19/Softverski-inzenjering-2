@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "BedUU22ugqI04SpBl2mF98t13A0/M8wRwyY0mlMD+WBgNun+1k/3OtjzeX3GVYE2yrPP50vRXdXQMbLwRHgylQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\W10\\Desktop\\ElektronskaUcionica\\DatabaseContext\\DatabaseContext.csproj",
+=======
+  "dgSpecHash": "fbPDrgqbhTrJm4XpKpzczWYuxtWMZsYCqDx1mKuvVWxfnmH8n0TxztTwQnkCxkLJK1odF3YVrjB4EOifZ+tFVw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\W10\\Desktop\\final\\DatabaseContext\\DatabaseContext.csproj",
+>>>>>>> privremena_grana
   "expectedPackageFiles": [
     "C:\\Users\\W10\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.0\\microsoft.data.sqlite.core.7.0.0.nupkg.sha512",
     "C:\\Users\\W10\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.0\\microsoft.entityframeworkcore.7.0.0.nupkg.sha512",

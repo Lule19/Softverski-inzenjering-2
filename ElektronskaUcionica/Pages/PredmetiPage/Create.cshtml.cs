@@ -28,7 +28,10 @@ namespace ElektronskaUcionica.Pages.PredmetiPage
         public Predmeti Predmeti { get; set; } = default!;
         
 
+<<<<<<< HEAD
         // To protect from overposting attacks, see https://aka.ms/RazorPagesCRUD
+=======
+>>>>>>> privremena_grana
         public async Task<IActionResult> OnPostAsync()
         {
           if (!ModelState.IsValid || _context.Predmeti == null || Predmeti == null)

@@ -47,8 +47,12 @@ namespace ElektronskaUcionica.Pages.ZadaciPage
             return Page();
         }
 
+<<<<<<< HEAD
         // To protect from overposting attacks, enable the specific properties you want to bind to.
         // For more details, see https://aka.ms/RazorPagesCRUD.
+=======
+       
+>>>>>>> privremena_grana
         public async Task<IActionResult> OnPostAsync()
         {
             try

@@ -34,3 +34,18 @@ C:\Users\W10\Desktop\ElektronskaUcionica\DatabaseEntityLib\obj\Debug\net6.0\Data
 C:\Users\W10\Desktop\ElektronskaUcionica\DatabaseEntityLib\obj\Debug\net6.0\refint\DatabaseEntityLib.dll
 C:\Users\W10\Desktop\ElektronskaUcionica\DatabaseEntityLib\obj\Debug\net6.0\DatabaseEntityLib.pdb
 C:\Users\W10\Desktop\ElektronskaUcionica\DatabaseEntityLib\obj\Debug\net6.0\ref\DatabaseEntityLib.dll
+<<<<<<< HEAD
+=======
+C:\Users\W10\Desktop\final\DatabaseEntityLib\bin\Debug\net6.0\DatabaseEntityLib.deps.json
+C:\Users\W10\Desktop\final\DatabaseEntityLib\bin\Debug\net6.0\DatabaseEntityLib.dll
+C:\Users\W10\Desktop\final\DatabaseEntityLib\bin\Debug\net6.0\DatabaseEntityLib.pdb
+C:\Users\W10\Desktop\final\DatabaseEntityLib\obj\Debug\net6.0\DatabaseEntityLib.csproj.AssemblyReference.cache
+C:\Users\W10\Desktop\final\DatabaseEntityLib\obj\Debug\net6.0\DatabaseEntityLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\W10\Desktop\final\DatabaseEntityLib\obj\Debug\net6.0\DatabaseEntityLib.AssemblyInfoInputs.cache
+C:\Users\W10\Desktop\final\DatabaseEntityLib\obj\Debug\net6.0\DatabaseEntityLib.AssemblyInfo.cs
+C:\Users\W10\Desktop\final\DatabaseEntityLib\obj\Debug\net6.0\DatabaseEntityLib.csproj.CoreCompileInputs.cache
+C:\Users\W10\Desktop\final\DatabaseEntityLib\obj\Debug\net6.0\DatabaseEntityLib.dll
+C:\Users\W10\Desktop\final\DatabaseEntityLib\obj\Debug\net6.0\refint\DatabaseEntityLib.dll
+C:\Users\W10\Desktop\final\DatabaseEntityLib\obj\Debug\net6.0\DatabaseEntityLib.pdb
+C:\Users\W10\Desktop\final\DatabaseEntityLib\obj\Debug\net6.0\ref\DatabaseEntityLib.dll
+>>>>>>> privremena_grana

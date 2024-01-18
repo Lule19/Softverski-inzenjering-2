@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\W10\\Desktop\\ElektronskaUcionica\\ElektronskaUcionica\\ElektronskaUcionica.csproj": {}
   },
   "projects": {
@@ -12,6 +13,19 @@
         "projectPath": "C:\\Users\\W10\\Desktop\\ElektronskaUcionica\\DatabaseContext\\DatabaseContext.csproj",
         "packagesPath": "C:\\Users\\W10\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\W10\\Desktop\\ElektronskaUcionica\\DatabaseContext\\obj\\",
+=======
+    "C:\\Users\\W10\\Desktop\\final\\ElektronskaUcionica\\ElektronskaUcionica.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\W10\\Desktop\\final\\DatabaseContext\\DatabaseContext.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\W10\\Desktop\\final\\DatabaseContext\\DatabaseContext.csproj",
+        "projectName": "DatabaseContext",
+        "projectPath": "C:\\Users\\W10\\Desktop\\final\\DatabaseContext\\DatabaseContext.csproj",
+        "packagesPath": "C:\\Users\\W10\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\W10\\Desktop\\final\\DatabaseContext\\obj\\",
+>>>>>>> privremena_grana
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\W10\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +42,13 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
+<<<<<<< HEAD
               "C:\\Users\\W10\\Desktop\\ElektronskaUcionica\\DatabaseEntityLib\\DatabaseEntityLib.csproj": {
                 "projectPath": "C:\\Users\\W10\\Desktop\\ElektronskaUcionica\\DatabaseEntityLib\\DatabaseEntityLib.csproj"
+=======
+              "C:\\Users\\W10\\Desktop\\final\\DatabaseEntityLib\\DatabaseEntityLib.csproj": {
+                "projectPath": "C:\\Users\\W10\\Desktop\\final\\DatabaseEntityLib\\DatabaseEntityLib.csproj"
+>>>>>>> privremena_grana
               }
             }
           }
@@ -73,6 +92,7 @@
         }
       }
     },
+<<<<<<< HEAD
     "C:\\Users\\W10\\Desktop\\ElektronskaUcionica\\DatabaseEntityLib\\DatabaseEntityLib.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -81,6 +101,16 @@
         "projectPath": "C:\\Users\\W10\\Desktop\\ElektronskaUcionica\\DatabaseEntityLib\\DatabaseEntityLib.csproj",
         "packagesPath": "C:\\Users\\W10\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\W10\\Desktop\\ElektronskaUcionica\\DatabaseEntityLib\\obj\\",
+=======
+    "C:\\Users\\W10\\Desktop\\final\\DatabaseEntityLib\\DatabaseEntityLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\W10\\Desktop\\final\\DatabaseEntityLib\\DatabaseEntityLib.csproj",
+        "projectName": "DatabaseEntityLib",
+        "projectPath": "C:\\Users\\W10\\Desktop\\final\\DatabaseEntityLib\\DatabaseEntityLib.csproj",
+        "packagesPath": "C:\\Users\\W10\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\W10\\Desktop\\final\\DatabaseEntityLib\\obj\\",
+>>>>>>> privremena_grana
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\W10\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -138,6 +168,7 @@
         }
       }
     },
+<<<<<<< HEAD
     "C:\\Users\\W10\\Desktop\\ElektronskaUcionica\\ElektronskaUcionica\\ElektronskaUcionica.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -146,6 +177,16 @@
         "projectPath": "C:\\Users\\W10\\Desktop\\ElektronskaUcionica\\ElektronskaUcionica\\ElektronskaUcionica.csproj",
         "packagesPath": "C:\\Users\\W10\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\W10\\Desktop\\ElektronskaUcionica\\ElektronskaUcionica\\obj\\",
+=======
+    "C:\\Users\\W10\\Desktop\\final\\ElektronskaUcionica\\ElektronskaUcionica.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\W10\\Desktop\\final\\ElektronskaUcionica\\ElektronskaUcionica.csproj",
+        "projectName": "ElektronskaUcionica",
+        "projectPath": "C:\\Users\\W10\\Desktop\\final\\ElektronskaUcionica\\ElektronskaUcionica.csproj",
+        "packagesPath": "C:\\Users\\W10\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\W10\\Desktop\\final\\ElektronskaUcionica\\obj\\",
+>>>>>>> privremena_grana
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\W10\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -162,11 +203,19 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
+<<<<<<< HEAD
               "C:\\Users\\W10\\Desktop\\ElektronskaUcionica\\DatabaseContext\\DatabaseContext.csproj": {
                 "projectPath": "C:\\Users\\W10\\Desktop\\ElektronskaUcionica\\DatabaseContext\\DatabaseContext.csproj"
               },
               "C:\\Users\\W10\\Desktop\\ElektronskaUcionica\\DatabaseEntityLib\\DatabaseEntityLib.csproj": {
                 "projectPath": "C:\\Users\\W10\\Desktop\\ElektronskaUcionica\\DatabaseEntityLib\\DatabaseEntityLib.csproj"
+=======
+              "C:\\Users\\W10\\Desktop\\final\\DatabaseContext\\DatabaseContext.csproj": {
+                "projectPath": "C:\\Users\\W10\\Desktop\\final\\DatabaseContext\\DatabaseContext.csproj"
+              },
+              "C:\\Users\\W10\\Desktop\\final\\DatabaseEntityLib\\DatabaseEntityLib.csproj": {
+                "projectPath": "C:\\Users\\W10\\Desktop\\final\\DatabaseEntityLib\\DatabaseEntityLib.csproj"
+>>>>>>> privremena_grana
               }
             }
           }

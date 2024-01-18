@@ -1188,11 +1188,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\W10\\Desktop\\ElektronskaUcionica\\DatabaseEntityLib\\DatabaseEntityLib.csproj",
       "projectName": "DatabaseEntityLib",
       "projectPath": "C:\\Users\\W10\\Desktop\\ElektronskaUcionica\\DatabaseEntityLib\\DatabaseEntityLib.csproj",
       "packagesPath": "C:\\Users\\W10\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\W10\\Desktop\\ElektronskaUcionica\\DatabaseEntityLib\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\W10\\Desktop\\final\\DatabaseEntityLib\\DatabaseEntityLib.csproj",
+      "projectName": "DatabaseEntityLib",
+      "projectPath": "C:\\Users\\W10\\Desktop\\final\\DatabaseEntityLib\\DatabaseEntityLib.csproj",
+      "packagesPath": "C:\\Users\\W10\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\W10\\Desktop\\final\\DatabaseEntityLib\\obj\\",
+>>>>>>> privremena_grana
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\W10\\AppData\\Roaming\\NuGet\\NuGet.Config",

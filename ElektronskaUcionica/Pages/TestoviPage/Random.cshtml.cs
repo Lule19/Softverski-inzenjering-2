@@ -48,7 +48,11 @@ namespace ElektronskaUcionica.Pages.TestoviPage
 
                 if (pitanjaIDs != null)
                 {
+<<<<<<< HEAD
                     // Brojanje ta?nih odgovora
+=======
+                 
+>>>>>>> privremena_grana
                     int tacniOdgovori = 0;
 
                     foreach (var pitanjeID in pitanjaIDs)
@@ -65,16 +69,23 @@ namespace ElektronskaUcionica.Pages.TestoviPage
                 }
 
 
+<<<<<<< HEAD
                 // Obrada rezultata testa, možete dodati svoju logiku ovde
                 // pitanjaIDs ?e sadržavati ID-jeve odabranih pitanja
                 // Odgovori sadržavaju odgovore na ta pitanja
 
                 // Nakon obrade, možete preusmeriti korisnika na odgovaraju?u stranicu, npr.:
+=======
+>>>>>>> privremena_grana
                 return RedirectToPage("./Rezultat", new { tacniOdgovori=TacniOdgovori, brojPitanja=BrojPitanja });
             }
             else
             {
+<<<<<<< HEAD
                 // Nema odgovora, možete dodati odgovaraju?u logiku ili preusmeriti korisnika
+=======
+                
+>>>>>>> privremena_grana
                 return RedirectToPage("./Neuspeh");
             }
 

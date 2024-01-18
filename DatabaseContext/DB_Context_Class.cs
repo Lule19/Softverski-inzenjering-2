@@ -25,6 +25,21 @@ namespace DataBaseContext
             .IsRequired();
 
 
+<<<<<<< HEAD
+=======
+
+
+
+
+
+
+
+
+
+
+
+
+>>>>>>> privremena_grana
             modelBuilder.Entity<Oblasti>()
                 .Property(i => i.Name)
             .IsRequired();
@@ -32,6 +47,18 @@ namespace DataBaseContext
 
 
 
+<<<<<<< HEAD
+=======
+
+
+
+
+
+
+
+
+
+>>>>>>> privremena_grana
             modelBuilder.Entity<Zadaci>()
                 .Property(p => p.IDPredmet)
                 .IsRequired();
@@ -44,6 +71,7 @@ namespace DataBaseContext
             modelBuilder.Entity<Zadaci>()
                 .Property(p => p.Nivo)
                 .IsRequired();
+<<<<<<< HEAD
 
 
 
@@ -52,5 +80,8 @@ namespace DataBaseContext
         }
 
 
+=======
+        }
+>>>>>>> privremena_grana
     }
 }

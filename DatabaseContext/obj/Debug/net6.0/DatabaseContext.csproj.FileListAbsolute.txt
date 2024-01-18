@@ -43,3 +43,21 @@ C:\Users\W10\Desktop\ElektronskaUcionica\DatabaseContext\obj\Debug\net6.0\Databa
 C:\Users\W10\Desktop\ElektronskaUcionica\DatabaseContext\obj\Debug\net6.0\refint\DatabaseContext.dll
 C:\Users\W10\Desktop\ElektronskaUcionica\DatabaseContext\obj\Debug\net6.0\DatabaseContext.pdb
 C:\Users\W10\Desktop\ElektronskaUcionica\DatabaseContext\obj\Debug\net6.0\ref\DatabaseContext.dll
+<<<<<<< HEAD
+=======
+C:\Users\W10\Desktop\final\DatabaseContext\bin\Debug\net6.0\DatabaseContext.deps.json
+C:\Users\W10\Desktop\final\DatabaseContext\bin\Debug\net6.0\DatabaseContext.dll
+C:\Users\W10\Desktop\final\DatabaseContext\bin\Debug\net6.0\DatabaseContext.pdb
+C:\Users\W10\Desktop\final\DatabaseContext\bin\Debug\net6.0\DatabaseEntityLib.dll
+C:\Users\W10\Desktop\final\DatabaseContext\bin\Debug\net6.0\DatabaseEntityLib.pdb
+C:\Users\W10\Desktop\final\DatabaseContext\obj\Debug\net6.0\DatabaseContext.csproj.AssemblyReference.cache
+C:\Users\W10\Desktop\final\DatabaseContext\obj\Debug\net6.0\DatabaseContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\W10\Desktop\final\DatabaseContext\obj\Debug\net6.0\DatabaseContext.AssemblyInfoInputs.cache
+C:\Users\W10\Desktop\final\DatabaseContext\obj\Debug\net6.0\DatabaseContext.AssemblyInfo.cs
+C:\Users\W10\Desktop\final\DatabaseContext\obj\Debug\net6.0\DatabaseContext.csproj.CoreCompileInputs.cache
+C:\Users\W10\Desktop\final\DatabaseContext\obj\Debug\net6.0\DatabaseContext.csproj.CopyComplete
+C:\Users\W10\Desktop\final\DatabaseContext\obj\Debug\net6.0\DatabaseContext.dll
+C:\Users\W10\Desktop\final\DatabaseContext\obj\Debug\net6.0\refint\DatabaseContext.dll
+C:\Users\W10\Desktop\final\DatabaseContext\obj\Debug\net6.0\DatabaseContext.pdb
+C:\Users\W10\Desktop\final\DatabaseContext\obj\Debug\net6.0\ref\DatabaseContext.dll
+>>>>>>> privremena_grana

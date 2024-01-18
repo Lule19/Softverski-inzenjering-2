@@ -1229,11 +1229,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\W10\\Desktop\\ElektronskaUcionica\\ElektronskaUcionica\\ElektronskaUcionica.csproj",
       "projectName": "ElektronskaUcionica",
       "projectPath": "C:\\Users\\W10\\Desktop\\ElektronskaUcionica\\ElektronskaUcionica\\ElektronskaUcionica.csproj",
       "packagesPath": "C:\\Users\\W10\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\W10\\Desktop\\ElektronskaUcionica\\ElektronskaUcionica\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\W10\\Desktop\\final\\ElektronskaUcionica\\ElektronskaUcionica.csproj",
+      "projectName": "ElektronskaUcionica",
+      "projectPath": "C:\\Users\\W10\\Desktop\\final\\ElektronskaUcionica\\ElektronskaUcionica.csproj",
+      "packagesPath": "C:\\Users\\W10\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\W10\\Desktop\\final\\ElektronskaUcionica\\obj\\",
+>>>>>>> privremena_grana
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\W10\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1250,11 +1258,19 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
+<<<<<<< HEAD
             "C:\\Users\\W10\\Desktop\\ElektronskaUcionica\\DatabaseContext\\DatabaseContext.csproj": {
               "projectPath": "C:\\Users\\W10\\Desktop\\ElektronskaUcionica\\DatabaseContext\\DatabaseContext.csproj"
             },
             "C:\\Users\\W10\\Desktop\\ElektronskaUcionica\\DatabaseEntityLib\\DatabaseEntityLib.csproj": {
               "projectPath": "C:\\Users\\W10\\Desktop\\ElektronskaUcionica\\DatabaseEntityLib\\DatabaseEntityLib.csproj"
+=======
+            "C:\\Users\\W10\\Desktop\\final\\DatabaseContext\\DatabaseContext.csproj": {
+              "projectPath": "C:\\Users\\W10\\Desktop\\final\\DatabaseContext\\DatabaseContext.csproj"
+            },
+            "C:\\Users\\W10\\Desktop\\final\\DatabaseEntityLib\\DatabaseEntityLib.csproj": {
+              "projectPath": "C:\\Users\\W10\\Desktop\\final\\DatabaseEntityLib\\DatabaseEntityLib.csproj"
+>>>>>>> privremena_grana
             }
           }
         }
